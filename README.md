@@ -1,2 +1,1 @@
-# News
-Release Notes
+# What's new
